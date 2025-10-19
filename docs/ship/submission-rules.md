@@ -1,0 +1,44 @@
+# Submission Rules
+
+Follow these steps to hand in your project smoothly and keep the judging team on schedule.
+
+## Package Structure
+
+```
+Team-Name/
+  index.html
+  assets/
+    images/
+    audio/
+    data/
+  README.md
+```
+
+- No nested zips. Submit one clean folder zipped once.
+- Keep filenames lowercase with hyphens.
+
+## Required Materials
+
+- Final game build (`index.html` + assets).
+- `README.md` with play instructions, team credits, and tool usage.
+- PLACEHOLDER screenshot or GIF for the showcase gallery.
+
+## Hand-In Process
+
+1. Zip your folder (`Team-Name.zip`).
+2. Upload to the staging portal at PLACEHOLDER URL **or** copy to the official USB stick at the help desk.
+3. Confirm your upload with the tech volunteer—don’t leave until you get the thumbs-up.
+
+## Deadline Policy
+
+- Submissions close at **4:30 PM sharp**.
+- Late submissions require organiser approval and may not be judged.
+- If you foresee a blocker, notify us before the deadline so we can help.
+
+## After Submission
+
+- Stick around for the quick verification check.
+- Prep your demo using the [Demo Script](/judging/demo-script).
+- Celebrate—you just shipped a game in a day!
+
+Questions? Ping PLACEHOLDER submission support contact or visit the staging desk.
