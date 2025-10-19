@@ -6,6 +6,9 @@ export default defineConfig({
   description:
     'The official Vibe-athon handbook — a practical build guide for teams creating AI-powered educational web games in one day. Packed with starter templates, examples, prompts, and submission rules, this doc site is your mission control for building, shipping, and surviving the Vibe-athon.',
   themeConfig: {
+    editLink: {
+      pattern: 'https://github.com/gardner/vibe-athon/edit/main/docs/:path'
+    },
     nav: [
       { text: 'Guide', link: '/guide/welcome' },
       { text: 'Build', link: '/build/technical-brief' },
