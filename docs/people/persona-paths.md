@@ -5,7 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-## PLACEHOLDER: Persona image grid or character lineup
+## Persona image grid or character lineup
+
+![Persona image grid](/public/persona-image-grid-3130.png)
 
 ## Persona Paths Hub
 

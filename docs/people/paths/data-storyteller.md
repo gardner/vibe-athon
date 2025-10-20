@@ -5,7 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-## PLACEHOLDER: Data Storyteller icon or illustration
+## Data Storyteller icon or illustration
+
+![Data Storyteller](/public/persona-data-storyteller-3130.png)
 
 ## Data Storyteller Path
 

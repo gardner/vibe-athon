@@ -5,7 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-## PLACEHOLDER: Ops section banner or map graphic
+## Ops section banner or map graphic
+
+![Ops section banner](/public/ops-section-banner-3130.png)
 
 ## Ops Overview
 

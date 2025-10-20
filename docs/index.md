@@ -24,7 +24,9 @@ features:
 ---
 
 <!-- DESIGN TODO -->
-## PLACEHOLDER: Event banner image + Vibe-athon branding strip
+## Event banner image + Vibe-athon branding strip
+
+![Homepage banner](/public/homepage-banner-3130.png)
 
 ## Start your Vibe-athon mission
 
@@ -53,7 +55,9 @@ Need more options? Visit the [Persona Paths hub](/people/persona-paths) or take 
 We designed the flow so you can skim in order or jump straight to what matters most right now.
 
 <!-- DESIGN TODO -->
-## PLACEHOLDER: Rotating highlight cards for personas, templates, and key deadlines
+## Rotating highlight cards for personas, templates, and key deadlines
+
+![Highlight cards](/public/highlight-cards-3130.png)
 
 ## Quick navigation
 

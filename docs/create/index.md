@@ -5,7 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-## PLACEHOLDER: Create section banner or moodboard
+## Create section banner or moodboard
+
+![Create section banner](/public/create-section-banner-3130.png)
 
 ## Create Overview
 

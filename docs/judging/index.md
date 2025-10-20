@@ -5,7 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-## PLACEHOLDER: Judging section banner or rubric graphic
+## Judging section banner or rubric graphic
+
+![Judging section banner](/public/judging-section-banner-3130.png)
 
 ## Judging Overview
 

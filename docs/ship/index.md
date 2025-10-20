@@ -5,7 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-## PLACEHOLDER: Ship section banner or submission graphic
+## Ship section banner or submission graphic
+
+![Ship section banner](/public/ship-section-banner-3130.png)
 
 ## Ship Overview
 

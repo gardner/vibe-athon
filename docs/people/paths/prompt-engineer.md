@@ -5,7 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-## PLACEHOLDER: Prompt Engineer icon or illustration
+## Prompt Engineer icon or illustration
+
+![Prompt Engineer](/public/persona-prompt-engineer-3130.png)
 
 ## Prompt Engineer Path
 

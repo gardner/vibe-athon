@@ -5,7 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-## PLACEHOLDER: Guide section banner or timeline illustration
+## Guide section banner or timeline illustration
+
+![Guide section banner](/public/guide-section-banner-3130.png)
 
 ## Guide Overview
 

@@ -5,7 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-## PLACEHOLDER: Build section banner or toolkit collage
+## Build section banner or toolkit collage
+
+![Build section banner](/public/build-section-banner-3130.png)
 
 ## Build Overview
 

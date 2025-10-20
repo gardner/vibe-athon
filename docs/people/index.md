@@ -5,7 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-## PLACEHOLDER: People section banner or team collage
+## People section banner or team collage
+
+![People section banner](/public/people-section-banner-3130.png)
 
 ## People Overview
 

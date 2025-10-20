@@ -5,7 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-## PLACEHOLDER: Accessibility Avenger icon or illustration
+## Accessibility Avenger icon or illustration
+
+![Accessibility Avenger](/public/persona-accessibility-avenger-3130.png)
 
 ## Accessibility Avenger Path
 
