@@ -8,6 +8,7 @@
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview",
+    "lint:css-classes": "node scripts/check-missing-css-classes.mjs",
     "gen": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' img.ts"
   },
   "keywords": [],
