@@ -8,13 +8,19 @@
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview",
-    "lint:css-classes": "node scripts/check-missing-css-classes.mjs"
+    "lint:css-classes": "node scripts/check-missing-css-classes.mjs",
+    "gen": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' img.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.17.1",
   "devDependencies": {
+    "node-fetch": "^3.3.2",
+    "ts-node": "^10.9.2",
     "vitepress": "2.0.0-alpha.12"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
   }
 }

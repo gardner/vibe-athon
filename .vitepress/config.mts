@@ -9,6 +9,9 @@ export default defineConfig({
     editLink: {
       pattern: 'https://github.com/gardner/vibe-athon/edit/master/docs/:path'
     },
+    search: {
+      provider: 'local'
+    },
     nav: [
       { text: 'Guide', link: '/guide/index' },
       { text: 'Build', link: '/build/index' },
