@@ -5,7 +5,7 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-**PLACEHOLDER: Designer Dreamer icon or illustration**
+## PLACEHOLDER: Designer Dreamer icon or illustration
 
 # Designer Dreamer Path
 
