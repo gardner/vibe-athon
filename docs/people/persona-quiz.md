@@ -137,10 +137,10 @@ Take two minutes to discover which persona fits your energy today. Trust your in
 
 ---
 
-### Up next
+## Up next
 - [Browse persona paths](/people/persona-paths)
 
-### Related guides
+## Related guides
 - [Prompt Engineer path](/people/paths/prompt-engineer)
 - [Code Mechanic path](/people/paths/code-mechanic)
 - [Accessibility Avenger path](/people/paths/accessibility-avenger)
