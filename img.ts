@@ -107,6 +107,16 @@ Clean and clear, minimal shapes.
 `
   },
   {
+    title: "highlight-cards",
+    aspect: "16:9",
+    prompt: `
+Highlight Cards – Rotating showcase:
+A dynamic composition showing floating cards with icons representing personas, templates, and key deadlines.
+Represents quick navigation and featured content.
+Cinematic composition, wide layout.
+`
+  },
+  {
     title: "guide-section-banner",
     aspect: "16:9",
     prompt: `
