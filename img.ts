@@ -105,6 +105,76 @@ No text, clean layout.
 Simple illustration of submission: a folder icon arrow to a USB drive and laptop.
 Clean and clear, minimal shapes.
 `
+  },
+  {
+    title: "guide-section-banner",
+    aspect: "16:9",
+    prompt: `
+Section Banner – Guide:
+A welcoming hackathon scene showing diverse people learning together with friendly interface elements.
+Represents orientation, rules, and community standards.
+Cinematic composition, wide layout.
+`
+  },
+  {
+    title: "build-section-banner",
+    aspect: "16:9",
+    prompt: `
+Section Banner – Build:
+Creative coding scene with people working on laptops, surrounded by glowing code fragments and tech elements.
+Represents technical setup, templates, and rapid prototyping.
+Cinematic composition, wide layout.
+`
+  },
+  {
+    title: "create-section-banner",
+    aspect: "16:9",
+    prompt: `
+Section Banner – Create:
+Artistic workspace with designers and storytellers creating visuals, narrative, and audio elements.
+Represents creative polish, art direction, and storytelling.
+Cinematic composition, wide layout.
+`
+  },
+  {
+    title: "ship-section-banner",
+    aspect: "16:9",
+    prompt: `
+Section Banner – Ship:
+Quality assurance scene showing people testing interfaces and preparing submission packages.
+Represents QA, packaging, and confident handoffs.
+Cinematic composition, wide layout.
+`
+  },
+  {
+    title: "judging-section-banner",
+    aspect: "16:9",
+    prompt: `
+Section Banner – Judging:
+Presentation scene with people confidently demonstrating their projects to judges.
+Represents evaluation, scoring, and showcasing work.
+Cinematic composition, wide layout.
+`
+  },
+  {
+    title: "people-section-banner",
+    aspect: "16:9",
+    prompt: `
+Section Banner – People:
+Team collaboration scene showing diverse personas working together in harmony.
+Represents roles, mentorship, and inclusive teamwork.
+Cinematic composition, wide layout.
+`
+  },
+  {
+    title: "ops-section-banner",
+    aspect: "16:9",
+    prompt: `
+Section Banner – Ops:
+Organizational scene showing venue logistics, support desks, and smooth operations.
+Represents venue, contingencies, and operational support.
+Cinematic composition, wide layout.
+`
   }
 ];
 
