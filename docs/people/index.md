@@ -4,7 +4,7 @@ description: Rally the right support crew with personas, roles, and mentor conne
 outline: deep
 ---
 
-![People section banner](./people-section-banner-3130.png)
+![People section banner](/people-section-banner.png)
 
 ## People Overview
 

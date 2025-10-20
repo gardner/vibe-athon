@@ -4,7 +4,7 @@ description: Pick your tools, spin up templates, and start coding (or prompting)
 outline: deep
 ---
 
-![Build section banner](./build-section-banner-3130.png)
+![Build section banner](/build-section-banner.png)
 
 ## Build Overview
 

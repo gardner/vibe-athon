@@ -4,7 +4,7 @@ description: Understand the Vibe-athon flow, expectations, and how to prep your 
 outline: deep
 ---
 
-![Guide section banner](./guide-section-banner-3130.png)
+![Guide section banner](/guide-section-banner.png)
 
 ## Guide Overview
 

@@ -4,7 +4,7 @@ description: See the recommended reading path and how each section supports your
 outline: deep
 ---
 
-![Handbook flow diagram](./handbook-flow-diagram-3130.png)
+![Handbook flow diagram](/handbook-flow-diagram.png)
 
 ## Handbook Flow
 

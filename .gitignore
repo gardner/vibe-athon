@@ -3,3 +3,4 @@ cache/
 dist/
 research/
 .env
+/images/

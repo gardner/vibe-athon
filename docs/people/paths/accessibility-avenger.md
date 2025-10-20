@@ -4,7 +4,7 @@ description: Champion inclusive design so every player can learn and have fun.
 outline: deep
 ---
 
-![Accessibility Avenger](./persona-accessibility-avenger-3130.png)
+![Accessibility Avenger](/persona-accessibility-avenger.png)
 
 ## Accessibility Avenger Path
 

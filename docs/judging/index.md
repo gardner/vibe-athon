@@ -4,7 +4,7 @@ description: Learn how judges score projects and plan a punchy, confident demo.
 outline: deep
 ---
 
-![Judging section banner](./judging-section-banner-3130.png)
+![Judging section banner](/judging-section-banner.png)
 
 ## Judging Overview
 
