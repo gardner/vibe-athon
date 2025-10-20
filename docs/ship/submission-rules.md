@@ -4,7 +4,7 @@ Follow these steps to hand in your project smoothly and keep the judging team on
 
 ## Package Structure
 
-```
+```markdown
 Team-Name/
   index.html
   assets/
