@@ -5,7 +5,7 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-**PLACEHOLDER: People section banner or team collage**
+## PLACEHOLDER: People section banner or team collage
 
 # People Overview
 
