@@ -24,9 +24,9 @@ features:
 ---
 
 <!-- DESIGN TODO -->
-**PLACEHOLDER: Event banner image + Vibe-athon branding strip**
+## PLACEHOLDER: Event banner image + Vibe-athon branding strip
 
-# Start your Vibe-athon mission
+## Start your Vibe-athon mission
 
 Welcome to the **NAIS Vibe-athon Handbook**—your hype squad, toolbox, and technical map rolled into one joyful website. Every page keeps the language friendly and the steps bite-sized so you can focus on building something brilliant.
 
@@ -53,7 +53,7 @@ Need more options? Visit the [Persona Paths hub](/people/persona-paths) or take 
 We designed the flow so you can skim in order or jump straight to what matters most right now.
 
 <!-- DESIGN TODO -->
-**PLACEHOLDER: Rotating highlight cards for personas, templates, and key deadlines**
+## PLACEHOLDER: Rotating highlight cards for personas, templates, and key deadlines
 
 ## Quick navigation
 
@@ -72,9 +72,11 @@ Let’s build games that teach, delight, and spread the Vibe-athon magic. 🔥
 ---
 
 ### Up next
+
 - [Understand the full handbook flow](/guide/flow)
 
 ### Related guides
+
 - [Persona Paths hub](/people/persona-paths)
 - [Starter code templates](/build/code-templates)
 - [Submission checklist](/ship/qa-checklist)

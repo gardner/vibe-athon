@@ -5,9 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-**PLACEHOLDER: Create section banner or moodboard**
+## PLACEHOLDER: Create section banner or moodboard
 
-# Create Overview
+## Create Overview
 
 The Create section is where you dial in theme, visuals, audio, and narrative to support your gameplay goals. Use these guides to keep your production lightweight while still delivering personality and clarity.
 
@@ -38,9 +38,11 @@ When your prototype looks and sounds ready, jump into the [Ship section](/ship/i
 ---
 
 ### Up next
+
 - [Run your QA checklist](/ship/qa-checklist)
 
 ### Related guides
+
 - [Designer Dreamer path](/people/paths/designer-dreamer)
 - [Data Storyteller path](/people/paths/data-storyteller)
 - [Demo script coaching](/judging/demo-script)

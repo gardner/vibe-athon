@@ -5,9 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-**PLACEHOLDER: Flow diagram showing Guide → Build → Create → Ship → Judging → People & Ops loops**
+## PLACEHOLDER: Flow diagram showing Guide → Build → Create → Ship → Judging → People & Ops loops
 
-# Handbook Flow
+## Handbook Flow
 
 The Vibe-athon handbook is designed for momentum. You can read it front-to-back, but most teams hop between sections as needs pop up. Use this overview to understand how the pieces fit together and how to loop in the right guidance at the right time.
 
@@ -42,9 +42,11 @@ Print or copy this flow into your team chat so everyone knows the next pit stop.
 ---
 
 ### Up next
+
 - [Choose your build toolkit](/build/index)
 
 ### Related guides
+
 - [Day schedule & milestones](/guide/schedule)
 - [Persona Paths hub](/people/persona-paths)
 - [Submission checklist](/ship/qa-checklist)

@@ -5,9 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-**PLACEHOLDER: Prompt Engineer icon or illustration**
+## PLACEHOLDER: Prompt Engineer icon or illustration
 
-# Prompt Engineer Path
+## Prompt Engineer Path
 
 You love pairing with AI tools, remixing templates, and keeping experiments lightweight. As the Prompt Engineer, you turn ideas into playable prototypes in record time while sharing discoveries with the rest of the team.
 
@@ -39,9 +39,11 @@ Share prompt logs with the Code Mechanic for validation and with the Designer Dr
 ---
 
 ### Up next
+
 - [Code Mechanic path](/people/paths/code-mechanic)
 
 ### Related guides
+
 - [Persona quiz](/people/persona-quiz)
 - [Starter templates](/build/code-templates)
 - [Handbook flow](/guide/flow)

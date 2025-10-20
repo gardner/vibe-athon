@@ -5,9 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-**PLACEHOLDER: Code Mechanic icon or illustration**
+## PLACEHOLDER: Code Mechanic icon or illustration
 
-# Code Mechanic Path
+## Code Mechanic Path
 
 The Code Mechanic is your team’s reliability engine. You wrangle repos, optimize performance, and ensure integrations stay solid. When prototypes need custom logic or bug fixes, you’re the one with a plan.
 
@@ -39,9 +39,11 @@ Sync with the Designer Dreamer to keep UI/UX and performance aligned. Partner wi
 ---
 
 ### Up next
+
 - [Designer Dreamer path](/people/paths/designer-dreamer)
 
 ### Related guides
+
 - [Persona quiz](/people/persona-quiz)
 - [Performance & offline tips](/build/performance-offline)
 - [QA checklist](/ship/qa-checklist)

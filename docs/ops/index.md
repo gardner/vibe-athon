@@ -5,9 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-**PLACEHOLDER: Ops section banner or map graphic**
+## PLACEHOLDER: Ops section banner or map graphic
 
-# Ops Overview
+## Ops Overview
 
 The Ops section keeps your team grounded in reality. Find venue maps, Wi-Fi backups, escalation paths, and post-event procedures so you always know where to go and who to ask.
 
@@ -38,9 +38,11 @@ Wrap back to the [Guide section](/guide/index) whenever you need to onboard new 
 ---
 
 ### Up next
+
 - [Review the event flow](/guide/index)
 
 ### Related guides
+
 - [Ship checklist](/ship/qa-checklist)
 - [Ops support contacts](/ops/venue-info)
 - [Accessibility Avenger path](/people/paths/accessibility-avenger)

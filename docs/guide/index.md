@@ -5,9 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-**PLACEHOLDER: Guide section banner or timeline illustration**
+## PLACEHOLDER: Guide section banner or timeline illustration
 
-# Guide Overview
+## Guide Overview
 
 The Guide section is your warm-up lap. It explains what the Vibe-athon is, how the day runs, and the community standards that keep the event inclusive and fun. Start here if you’re opening the handbook for the first time or need a quick refresher on the rules.
 
@@ -40,9 +40,11 @@ Ready to move from context to action? Jump into the [Build section](/build/index
 ---
 
 ### Up next
+
 - [Choose your build toolkit](/build/index)
 
 ### Related guides
+
 - [Persona Paths hub](/people/persona-paths)
 - [Event schedule printable](/guide/schedule)
 - [Submission checklist](/ship/qa-checklist)

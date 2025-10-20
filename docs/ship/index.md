@@ -5,9 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-**PLACEHOLDER: Ship section banner or submission graphic**
+## PLACEHOLDER: Ship section banner or submission graphic
 
-# Ship Overview
+## Ship Overview
 
 The Ship section keeps your team calm during the final stretch. Use these resources to run QA passes, document your project, and submit everything judges and ops need without a scramble.
 
@@ -38,9 +38,11 @@ After submission prep, review the [Judging section](/judging/index) to fine-tune
 ---
 
 ### Up next
+
 - [Understand how judging works](/judging/index)
 
 ### Related guides
+
 - [Accessibility Avenger path](/people/paths/accessibility-avenger)
 - [Ops support contacts](/ops/venue-info)
 - [Demo script coaching](/judging/demo-script)

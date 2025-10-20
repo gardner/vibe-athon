@@ -4,7 +4,7 @@ Organised files make verification fast and painless. Use this structure as your 
 
 ## Standard Layout
 
-```
+```markdown
 Team-Name/
   index.html
   assets/
@@ -26,7 +26,7 @@ Team-Name/
 
 ## README Template
 
-```
+```markdown
 # Game Title
 
 ## Team

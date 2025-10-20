@@ -5,9 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-**PLACEHOLDER: Quiz hero illustration or mascot**
+## PLACEHOLDER: Quiz hero illustration or mascot
 
-# Persona Quiz
+## Persona Quiz
 
 Take two minutes to discover which persona fits your energy today. Trust your instincts—there are no wrong answers, just clues about where you’ll have the most fun and impact.
 
@@ -137,10 +137,12 @@ Take two minutes to discover which persona fits your energy today. Trust your in
 
 ---
 
-### Up next
+## Up next
+
 - [Browse persona paths](/people/persona-paths)
 
-### Related guides
+## Related guides
+
 - [Prompt Engineer path](/people/paths/prompt-engineer)
 - [Code Mechanic path](/people/paths/code-mechanic)
 - [Accessibility Avenger path](/people/paths/accessibility-avenger)

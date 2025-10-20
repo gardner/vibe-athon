@@ -5,9 +5,9 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-**PLACEHOLDER: Data Storyteller icon or illustration**
+## PLACEHOLDER: Data Storyteller icon or illustration
 
-# Data Storyteller Path
+## Data Storyteller Path
 
 You excel at translating complex ideas into language everyone can understand. As the Data Storyteller, you make sure the team’s learning goals shine through the gameplay, pitch, and supporting materials.
 
@@ -39,9 +39,11 @@ Share draft copy with the Prompt Engineer and Code Mechanic to embed text in bui
 ---
 
 ### Up next
+
 - [Accessibility Avenger path](/people/paths/accessibility-avenger)
 
 ### Related guides
+
 - [Persona quiz](/people/persona-quiz)
 - [Handbook flow](/guide/flow)
 - [Demo script](/judging/demo-script)
