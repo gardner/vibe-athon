@@ -5,7 +5,7 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-**PLACEHOLDER: Accessibility Avenger icon or illustration**
+## PLACEHOLDER: Accessibility Avenger icon or illustration
 
 # Accessibility Avenger Path
 
