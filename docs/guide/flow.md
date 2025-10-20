@@ -5,7 +5,7 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-**PLACEHOLDER: Flow diagram showing Guide → Build → Create → Ship → Judging → People & Ops loops**
+## PLACEHOLDER: Flow diagram showing Guide → Build → Create → Ship → Judging → People & Ops loops
 
 # Handbook Flow
 
