@@ -7,7 +7,7 @@ outline: deep
 <!-- DESIGN TODO -->
 ## PLACEHOLDER: Persona image grid or character lineup
 
-# Persona Paths Hub
+## Persona Paths Hub
 
 Personas are shorthand for the strengths you bring to the Vibe-athon. Pick the one that feels most like you (or the role you want to play today) and you’ll get tailored checklists, resource bundles, and reminders when to ask for help.
 
@@ -34,9 +34,11 @@ Not sure where to start? [Take the persona quiz](/people/persona-quiz) and follo
 ---
 
 ### Up next
+
 - [Take the persona quiz](/people/persona-quiz)
 
 ### Related guides
+
 - [Prompt Engineer path](/people/paths/prompt-engineer)
 - [Code Mechanic path](/people/paths/code-mechanic)
 - [Designer Dreamer path](/people/paths/designer-dreamer)

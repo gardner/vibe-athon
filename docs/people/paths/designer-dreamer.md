@@ -7,7 +7,7 @@ outline: deep
 <!-- DESIGN TODO -->
 ## PLACEHOLDER: Designer Dreamer icon or illustration
 
-# Designer Dreamer Path
+## Designer Dreamer Path
 
 You bring vibes, empathy, and cohesion to the team. As the Designer Dreamer, you ensure the experience feels intentional—from the first screen to the final moment—while balancing scope and accessibility.
 
@@ -39,9 +39,11 @@ Share moodboards and UI references with the whole team. Pair with the Data Story
 ---
 
 ### Up next
+
 - [Data Storyteller path](/people/paths/data-storyteller)
 
 ### Related guides
+
 - [Persona quiz](/people/persona-quiz)
 - [Prompting for non-coders](/create/prompting-for-non-coders)
 - [Judging rubric](/judging/rubric)

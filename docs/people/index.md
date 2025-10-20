@@ -7,7 +7,7 @@ outline: deep
 <!-- DESIGN TODO -->
 ## PLACEHOLDER: People section banner or team collage
 
-# People Overview
+## People Overview
 
 The People section spotlights the humans who power your build—from teammates and mentors to persona guides that shape your workflow. Use it to assign roles, find mentorship, and align on collaboration norms.
 
@@ -37,9 +37,11 @@ Once your people plan is set, visit the [Ops section](/ops/index) for venue logi
 ---
 
 ### Up next
+
 - [Lock in venue details](/ops/index)
 
 ### Related guides
+
 - [Prompt Engineer path](/people/paths/prompt-engineer)
 - [Code Mechanic path](/people/paths/code-mechanic)
 - [Designer Dreamer path](/people/paths/designer-dreamer)

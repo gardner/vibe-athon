@@ -7,7 +7,7 @@ outline: deep
 <!-- DESIGN TODO -->
 ## PLACEHOLDER: Judging section banner or rubric graphic
 
-# Judging Overview
+## Judging Overview
 
 The Judging section demystifies what evaluators look for and how to showcase your work. Use it to align your team on scoring criteria, polish your narrative, and deliver a memorable presentation.
 
@@ -37,9 +37,11 @@ When your pitch is dialed in, hop over to the [People section](/people/index) to
 ---
 
 ### Up next
+
 - [Explore team personas](/people/persona-paths)
 
 ### Related guides
+
 - [Submission rules](/ship/submission-rules)
 - [Designer Dreamer path](/people/paths/designer-dreamer)
 - [Prompt Engineer path](/people/paths/prompt-engineer)

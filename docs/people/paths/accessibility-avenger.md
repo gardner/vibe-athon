@@ -7,7 +7,7 @@ outline: deep
 <!-- DESIGN TODO -->
 ## PLACEHOLDER: Accessibility Avenger icon or illustration
 
-# Accessibility Avenger Path
+## Accessibility Avenger Path
 
 You’re the guardian of inclusive play. As the Accessibility Avenger, you ensure the experience works for diverse abilities, devices, and contexts. You help the team make thoughtful choices that welcome every learner.
 
@@ -39,9 +39,11 @@ Meet regularly with the Designer Dreamer to confirm inclusive visuals and UI pat
 ---
 
 ### Up next
+
 - [Review the QA checklist](/ship/qa-checklist)
 
 ### Related guides
+
 - [Persona quiz](/people/persona-quiz)
 - [Ops contingencies](/ops/contingencies)
 - [Judging rubric](/judging/rubric)

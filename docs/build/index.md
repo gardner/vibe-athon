@@ -7,7 +7,7 @@ outline: deep
 <!-- DESIGN TODO -->
 ## PLACEHOLDER: Build section banner or toolkit collage
 
-# Build Overview
+## Build Overview
 
 The Build section helps you pick a tech stack, customize a template, and get your prototype playable quickly. Whether you code by hand or collaborate with an AI co-pilot, you’ll find step-by-step quickstarts that respect the one-day timeline.
 
@@ -42,9 +42,11 @@ Once your core loop runs, shift to the [Create section](/create/index) to craft 
 ---
 
 ### Up next
+
 - [Polish your story and art](/create/index)
 
 ### Related guides
+
 - [Prompt Engineer path](/people/paths/prompt-engineer)
 - [Code Mechanic path](/people/paths/code-mechanic)
 - [Submission checklist](/ship/qa-checklist)
