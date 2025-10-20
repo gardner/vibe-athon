@@ -195,6 +195,16 @@ A friendly grid layout showcasing all five Vibe-athon personas (Prompt Engineer,
 Represents the full spectrum of team roles and strengths.
 Clean, organized grid composition with consistent styling.
 `
+  },
+  {
+    title: "quiz-hero",
+    aspect: "16:9",
+    prompt: `
+Quiz Hero – Mascot illustration:
+A friendly, inviting mascot character holding a question mark balloon or surrounded by quiz elements.
+Represents fun, discovery, and finding your best-fit persona path.
+Playful and engaging composition.
+`
   }
 ];
 
@@ -211,10 +221,16 @@ interface ImageResponse {
   seed: number;
 }
 
-const sessionSeed = Math.floor(Math.random() * 65535);
+// const sessionSeed = Math.floor(Math.random() * 65535);
+const sessionSeed = 26444;
 
 async function generateImages() {
   for (const img of images) {
+    const fname = `images/${sessionSeed}/${img.title}.png`;
+    if (fs.existsSync(fname)) {
+      console.log(`Skipping ${fname}`);
+      continue;
+    }
     console.log(`Generating: ${img.title}...`);
 
     const payload = {
@@ -250,7 +266,6 @@ async function generateImages() {
 
     const buffer = Buffer.from(base64Image, "base64");
     fs.mkdirSync(`images/${seed}`, { recursive: true })
-    const fname = `images/${seed}/${img.title}.png`;
     fs.writeFileSync(fname, buffer);
     console.log(`✅ Saved: ${fname}`);
   }
