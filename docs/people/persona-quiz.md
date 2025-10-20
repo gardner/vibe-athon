@@ -5,7 +5,7 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-**PLACEHOLDER: Quiz hero illustration or mascot**
+## PLACEHOLDER: Quiz hero illustration or mascot
 
 # Persona Quiz
 
