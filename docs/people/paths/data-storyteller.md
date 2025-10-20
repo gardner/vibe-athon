@@ -4,10 +4,7 @@ description: Turn insights into clear, inspiring narratives that guide players a
 outline: deep
 ---
 
-<!-- DESIGN TODO -->
-## Data Storyteller icon or illustration
-
-![Data Storyteller](/public/persona-data-storyteller-3130.png)
+![Data Storyteller](./persona-data-storyteller-3130.png)
 
 ## Data Storyteller Path
 

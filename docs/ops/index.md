@@ -4,10 +4,7 @@ description: Navigate venue logistics, offline contingencies, and support channe
 outline: deep
 ---
 
-<!-- DESIGN TODO -->
-## Ops section banner or map graphic
-
-![Ops section banner](/public/ops-section-banner-3130.png)
+![Ops section banner](./ops-section-banner-3130.png)
 
 ## Ops Overview
 

@@ -4,10 +4,7 @@ description: Pick your tools, spin up templates, and start coding (or prompting)
 outline: deep
 ---
 
-<!-- DESIGN TODO -->
-## Build section banner or toolkit collage
-
-![Build section banner](/public/build-section-banner-3130.png)
+![Build section banner](./build-section-banner-3130.png)
 
 ## Build Overview
 

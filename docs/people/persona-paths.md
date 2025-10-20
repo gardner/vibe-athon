@@ -4,10 +4,7 @@ description: Match your Vibe-athon strengths with a guided path and curated reso
 outline: deep
 ---
 
-<!-- DESIGN TODO -->
-## Persona image grid or character lineup
-
-![Persona image grid](/public/persona-image-grid-3130.png)
+![Persona image grid](./persona-image-grid-3130.png)
 
 ## Persona Paths Hub
 

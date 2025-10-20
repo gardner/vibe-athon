@@ -4,10 +4,7 @@ description: Rapidly prototype with AI tools and low-code helpers to launch your
 outline: deep
 ---
 
-<!-- DESIGN TODO -->
-## Prompt Engineer icon or illustration
-
-![Prompt Engineer](/public/persona-prompt-engineer-3130.png)
+![Prompt Engineer](./persona-prompt-engineer-3130.png)
 
 ## Prompt Engineer Path
 

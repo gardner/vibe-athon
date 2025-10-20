@@ -4,10 +4,7 @@ description: Lock in quality, package your build, and hand it to judges with con
 outline: deep
 ---
 
-<!-- DESIGN TODO -->
-## Ship section banner or submission graphic
-
-![Ship section banner](/public/ship-section-banner-3130.png)
+![Ship section banner](./ship-section-banner-3130.png)
 
 ## Ship Overview
 

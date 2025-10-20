@@ -4,10 +4,7 @@ description: Own the codebase, keep systems stable, and make tech decisions with
 outline: deep
 ---
 
-<!-- DESIGN TODO -->
-## Code Mechanic icon or illustration
-
-![Code Mechanic](/public/persona-code-mechanic-3130.png)
+![Code Mechanic](./persona-code-mechanic-3130.png)
 
 ## Code Mechanic Path
 

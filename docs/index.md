@@ -23,10 +23,7 @@ features:
     details: Follow the submission playbook to hand in a polished, judge-ready game without breaking a sweat.
 ---
 
-<!-- DESIGN TODO -->
-## Event banner image + Vibe-athon branding strip
-
-![Homepage banner](/public/homepage-banner-3130.png)
+![Homepage banner](./homepage-banner-3130.png)
 
 ## Start your Vibe-athon mission
 
@@ -54,10 +51,7 @@ Need more options? Visit the [Persona Paths hub](/people/persona-paths) or take 
 
 We designed the flow so you can skim in order or jump straight to what matters most right now.
 
-<!-- DESIGN TODO -->
-## Rotating highlight cards for personas, templates, and key deadlines
-
-![Highlight cards](/public/highlight-cards-3130.png)
+![Highlight cards](./highlight-cards-3130.png)
 
 ## Quick navigation
 

@@ -4,10 +4,7 @@ description: Lead the creative direction, UX, and storytelling that make your ga
 outline: deep
 ---
 
-<!-- DESIGN TODO -->
-## Designer Dreamer icon or illustration
-
-![Designer Dreamer](/public/persona-designer-dreamer-3130.png)
+![Designer Dreamer](./persona-designer-dreamer-3130.png)
 
 ## Designer Dreamer Path
 

@@ -4,10 +4,7 @@ description: See the recommended reading path and how each section supports your
 outline: deep
 ---
 
-<!-- DESIGN TODO -->
-## Flow diagram showing Guide → Build → Create → Ship → Judging → People & Ops loops
-
-![Handbook flow diagram](/public/handbook-flow-diagram-3130.png)
+![Handbook flow diagram](./handbook-flow-diagram-3130.png)
 
 ## Handbook Flow
 

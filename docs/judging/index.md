@@ -4,10 +4,7 @@ description: Learn how judges score projects and plan a punchy, confident demo.
 outline: deep
 ---
 
-<!-- DESIGN TODO -->
-## Judging section banner or rubric graphic
-
-![Judging section banner](/public/judging-section-banner-3130.png)
+![Judging section banner](./judging-section-banner-3130.png)
 
 ## Judging Overview
 

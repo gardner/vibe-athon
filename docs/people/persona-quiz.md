@@ -4,10 +4,7 @@ description: Answer a few quick questions to find your best-fit Vibe-athon path.
 outline: deep
 ---
 
-<!-- DESIGN TODO -->
-## Quiz hero illustration or mascot
-
-![Quiz hero](/public/quiz-hero-3130.png)
+![Quiz hero](./quiz-hero-3130.png)
 
 ## Persona Quiz
 

@@ -4,10 +4,7 @@ description: Shape the look, feel, and storytelling that make your build memorab
 outline: deep
 ---
 
-<!-- DESIGN TODO -->
-## Create section banner or moodboard
-
-![Create section banner](/public/create-section-banner-3130.png)
+![Create section banner](./create-section-banner-3130.png)
 
 ## Create Overview
 

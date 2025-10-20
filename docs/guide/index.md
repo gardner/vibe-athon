@@ -4,10 +4,7 @@ description: Understand the Vibe-athon flow, expectations, and how to prep your 
 outline: deep
 ---
 
-<!-- DESIGN TODO -->
-## Guide section banner or timeline illustration
-
-![Guide section banner](/public/guide-section-banner-3130.png)
+![Guide section banner](./guide-section-banner-3130.png)
 
 ## Guide Overview
 
