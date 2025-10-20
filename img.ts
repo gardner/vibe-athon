@@ -185,6 +185,16 @@ Organizational scene showing venue logistics, support desks, and smooth operatio
 Represents venue, contingencies, and operational support.
 Cinematic composition, wide layout.
 `
+  },
+  {
+    title: "persona-image-grid",
+    aspect: "16:9",
+    prompt: `
+Persona Image Grid – Character lineup:
+A friendly grid layout showcasing all five Vibe-athon personas (Prompt Engineer, Code Mechanic, Designer Dreamer, Data Storyteller, Accessibility Avenger) as illustrated characters.
+Represents the full spectrum of team roles and strengths.
+Clean, organized grid composition with consistent styling.
+`
   }
 ];
 
