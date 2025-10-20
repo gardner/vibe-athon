@@ -8,7 +8,7 @@ We gathered the most common questions from past events so you can get answers fa
 A: Nope! You can build with templates, drag-and-drop tools, or AI-generated code. We’ll help you find a starting point that fits.
 
 **Q: Can I arrive without a team?**  
-A: Absolutely. We’ll run a friendly team formation mixer using the personas in the [People section](/people/team-personas).
+A: Absolutely. We’ll run a friendly team formation mixer using the personas in the [People section](/people/persona-paths).
 
 **Q: What if I need to leave early?**  
 A: Let your team and an organiser know. We can help you hand off work or adjust judging expectations.

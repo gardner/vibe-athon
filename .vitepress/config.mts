@@ -97,8 +97,7 @@ export default defineConfig({
           items: [
             { text: 'People Overview', link: '/people/index' },
             { text: 'Team Roles', link: '/people/team-roles' },
-            { text: 'Mentor Support', link: '/people/mentor-support' },
-            { text: 'Team Personas (legacy overview)', link: '/people/team-personas' }
+            { text: 'Mentor Support', link: '/people/mentor-support' }
           ]
         },
         {

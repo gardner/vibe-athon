@@ -29,7 +29,6 @@ The People section spotlights the humans who power your build—from teammates a
 - [Persona Quiz](/people/persona-quiz)
 - [Team Roles](/people/team-roles)
 - [Mentor Support](/people/mentor-support)
-- [Team Personas (legacy overview)](/people/team-personas)
 
 ## Next section
 
