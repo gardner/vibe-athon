@@ -5,7 +5,7 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-**PLACEHOLDER: Code Mechanic icon or illustration**
+## PLACEHOLDER: Code Mechanic icon or illustration
 
 # Code Mechanic Path
 
