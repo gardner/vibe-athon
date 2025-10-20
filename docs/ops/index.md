@@ -5,7 +5,7 @@ outline: deep
 ---
 
 <!-- DESIGN TODO -->
-**PLACEHOLDER: Ops section banner or map graphic**
+## PLACEHOLDER: Ops section banner or map graphic
 
 # Ops Overview
 
