@@ -4,3 +4,4 @@ dist/
 research/
 .env
 /images/
+.DS_Store

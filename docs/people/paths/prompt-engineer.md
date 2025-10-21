@@ -4,7 +4,7 @@ description: Rapidly prototype with AI tools and low-code helpers to launch your
 outline: deep
 ---
 
-![Prompt Engineer](/persona-prompt-engineer.png)
+![Prompt Engineer](/persona-prompt-engineer.webp)
 
 ## Prompt Engineer Path
 

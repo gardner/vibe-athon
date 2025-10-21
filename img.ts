@@ -1,6 +1,8 @@
 import fetch from "node-fetch";
 import * as fs from "fs";
 import 'dotenv/config'
+import sharp from 'sharp';
+
 
 
 const invokeUrl = "https://ai.api.nvidia.com/v1/genai/stabilityai/stable-diffusion-3-medium";
@@ -221,8 +223,7 @@ interface ImageResponse {
   seed: number;
 }
 
-// const sessionSeed = Math.floor(Math.random() * 65535);
-const sessionSeed = 26444;
+const sessionSeed = Math.floor(Math.random() * 65535);
 
 async function generateImages() {
   for (const img of images) {
@@ -265,6 +266,14 @@ async function generateImages() {
     if (!base64Image) throw new Error(`No image returned for ${img.title}`);
 
     const buffer = Buffer.from(base64Image, "base64");
+    const filename = fname.substring(0, fname.lastIndexOf('.')) || fname
+
+    sharp(buffer)
+      .toFile(`${filename}.webp`, (err, info) => {
+        if (err) console.log(err);
+        console.log(info)
+      });
+
     fs.mkdirSync(`images/${seed}`, { recursive: true })
     fs.writeFileSync(fname, buffer);
     console.log(`✅ Saved: ${fname}`);

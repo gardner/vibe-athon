@@ -4,7 +4,7 @@ description: Lock in quality, package your build, and hand it to judges with con
 outline: deep
 ---
 
-![Ship section banner](/ship-section-banner.png)
+![Ship section banner](/ship-section-banner.webp)
 
 ## Ship Overview
 

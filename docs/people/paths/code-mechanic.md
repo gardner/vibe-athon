@@ -4,7 +4,7 @@ description: Own the codebase, keep systems stable, and make tech decisions with
 outline: deep
 ---
 
-![Code Mechanic](/persona-code-mechanic.png)
+![Code Mechanic](/persona-code-mechanic.webp)
 
 ## Code Mechanic Path
 

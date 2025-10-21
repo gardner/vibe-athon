@@ -4,7 +4,7 @@ description: Shape the look, feel, and storytelling that make your build memorab
 outline: deep
 ---
 
-![Create section banner](/create-section-banner.png)
+![Create section banner](/create-section-banner.webp)
 
 ## Create Overview
 

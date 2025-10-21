@@ -4,7 +4,7 @@ description: Turn insights into clear, inspiring narratives that guide players a
 outline: deep
 ---
 
-![Data Storyteller](/persona-data-storyteller.png)
+![Data Storyteller](/persona-data-storyteller.webp)
 
 ## Data Storyteller Path
 

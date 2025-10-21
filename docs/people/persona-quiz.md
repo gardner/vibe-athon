@@ -4,7 +4,7 @@ description: Answer a few quick questions to find your best-fit Vibe-athon path.
 outline: deep
 ---
 
-![Quiz hero](/quiz-hero.png)
+![Quiz hero](/quiz-hero.webp)
 
 ## Persona Quiz
 
