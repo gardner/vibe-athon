@@ -26,6 +26,7 @@ The Guide section is your warm-up lap. It explains what the Vibe-athon is, how t
 
 - [Welcome & Event Overview](/guide/welcome)
 - [What You’ll Build](/guide/what-youll-build)
+- [Team Roles & Support](/guide/team-roles)
 - [Day Schedule & Milestones](/guide/schedule)
 - [Code of Conduct](/guide/code-of-conduct)
 - [IP & Licensing](/guide/ip-licensing)
@@ -44,6 +45,5 @@ Ready to move from context to action? Jump into the [Build section](/build/index
 
 ### Related guides
 
-- [Persona Paths hub](/people/persona-paths)
 - [Event schedule printable](/guide/schedule)
 - [Submission checklist](/ship/qa-checklist)

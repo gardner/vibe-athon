@@ -6,7 +6,7 @@ layout: home
 hero:
   name: "NAIS Vibe-athon"
   text: "Guide → Build → Ship your vibe-coded mini-game in one day"
-  tagline: "Everything you need to go from kickoff to demos without breaking the single-file rules."
+  tagline: "Everything you need to go from kickoff to demos while meeting the technical requirements."
   actions:
     - theme: brand
       text: Download the Starter Kit
@@ -20,32 +20,24 @@ features:
   - title: What to expect timeline
     details: "Morning kickoff, build sprint, playtest breaks, and a high-energy demo hour—mapped out hour by hour."
   - title: Ship-ready resources
-    details: "Starter templates, prompt workflows, and submission checklists all tuned for single-file builds."
+    details: "Starter templates, prompt workflows, and submission checklists all tuned for static, no-backend builds."
 ---
 
 ![Homepage banner](/homepage-banner.webp)
 
 ## What is vibe-coding?
 
-Vibe-coding is our friendly name for building a playful, learning-focused mini-game with the help of AI tools—fast. You’ll wrangle a single `index.html`, use prompts as power-ups, and keep the vibes collaborative from kickoff to demos.
+Vibe-coding is our friendly name for building a playful, learning-focused mini-game with the help of AI tools—fast. You’ll prep a static export with `index.html` at the root, use prompts as power-ups, and keep the vibes collaborative from kickoff to demos.
 
 ## You’ll leave with…
 
-- A working single-file mini-game you can proudly share.
+- A working zipped mini-game you can proudly share.
 - Better instincts for prompting, testing, and iterating with AI partners.
 - Bragging rights, new teammates, and stories for the group chat.
 
 ## What to expect on the day
 
-**9:00 – Kickoff.** Welcome, vibe check, and walk-through of the single-file rules.
-
-**9:30 – Build sprint.** Form teams, claim a starter kit, and co-build with your LLM of choice.
-
-**11:30 – Playtest loop.** Swap stations, gather feedback, and tighten your core mechanic.
-
-**12:30 – Demo prep.** Validate your ZIP, rehearse the 2-minute story, and upload.
-
-**1:00 – Demos & judging.** Present, celebrate, and cheer on the crowd favourites.
+Want the hour-by-hour plan? Head to the [Day Schedule](/guide/schedule) for the full agenda, including breaks, QA hour, and demo call times.
 
 ## Essential CTAs
 
@@ -55,17 +47,17 @@ Vibe-coding is our friendly name for building a playful, learning-focused mini-g
 
 ## Guide → Build → Ship
 
-1. Start with the [Guide](/guide/index) for event logistics, safety notes, and FAQs.
+1. Start with the [Guide](/guide/index) for event logistics, team roles, and FAQs.
 2. Jump into [Build](/build/index) to grab starter kits, prompt workflows, and tool stacks.
-3. Head to [Ship](/ship/index) for submission rules, judging rubrics, and demo prep.
+3. Head to [Ship](/ship/index) for submission rules, judging prep, and demo resources.
 
-Need role-specific advice? The [People section](/people/index) outlines personas, mentor support, and team formation tips. Looking for venue info? [Ops](/ops/index) keeps parking, Wi-Fi, and contingency plans in one place.
+Looking for venue info? [Ops](/ops/index) keeps parking, Wi-Fi, and contingency plans in one place.
 
 ![Highlight cards](/highlight-cards.webp)
 
 ## Stay ready
 
-- [Persona Paths hub](/people/persona-paths)
+- [Team roles snapshot](/guide/team-roles)
 - [Starter code templates](/build/code-templates)
 - [Submission checklist](/ship/qa-checklist)
 

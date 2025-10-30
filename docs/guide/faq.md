@@ -7,19 +7,19 @@ We gathered the most common questions from past events so you can get answers fa
 **Q: Do I need to know how to code?**  
 A: Nope! You can build with templates, drag-and-drop tools, or AI-generated code. We’ll help you find a starting point that fits.
 
-**Q: Can I arrive without a team?**  
-A: Absolutely. We’ll run a friendly team formation mixer using the personas in the [People section](/people/persona-paths).
+**Q: Can I arrive without a team?**
+A: Absolutely. We’ll run a friendly team formation mixer during kickoff—scan the [team roles snapshot](/guide/team-roles) to see where you might plug in.
 
 **Q: What if I need to leave early?**  
 A: Let your team and an organiser know. We can help you hand off work or adjust judging expectations.
 
 ## Tech & Tools
 
-**Q: Are we allowed to use libraries like p5.js or Tone.js?**  
-A: Yes—bundle the files locally so the game still runs offline.
+**Q: Are we allowed to use libraries like p5.js or Tone.js?**
+A: Yes—bundle the files locally so everything runs from your zipped folder.
 
-**Q: Can we pull data from an external API?**  
-A: Not during gameplay. If you need dynamic content, bake it into your assets or simulate it.
+**Q: Can we pull data from an external API?**
+A: Only if it doesn’t require an API key or login. If the call fails, your core experience still needs to work.
 
 **Q: Will there be computers or do we bring our own?**  
 A: Bring your own device if possible. We’ll have a limited number of loaners—ask early via PLACEHOLDER sign-up form.

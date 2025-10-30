@@ -1,6 +1,6 @@
 ---
 title: Ship Overview
-description: Validate your single-file build, upload it, and walk into demos knowing the rubric cold.
+description: Validate your static build, upload it, and walk into demos knowing the rubric cold.
 outline: deep
 ---
 
@@ -8,27 +8,21 @@ outline: deep
 
 ## Ship Overview
 
-This section is your final pit stop before the judges see your work. Follow the rules, run the automated checks, and rehearse your two-minute story so every team finishes strong.
+This section is your final pit stop before the judges see your work. Follow the shared requirements, run the checks, and rehearse your two-minute story so every team finishes strong.
 
 ## Rules & constraints
 
-- Submit a single `index.html` file ≤ 2 MB with inline CSS and JS.
-- No external network calls, CDNs, or runtime fetches—package everything locally.
-- Must run in the latest Chrome on desktop; mobile-friendly and accessible (tab order + alt text) strongly encouraged.
+- Start with the [Technical Requirements](/build/technical-requirements) for the authoritative checklist.
+- Zip your project once (`team-name.zip`) and keep it under 25 MB for quick uploads.
+- Your build must open from `index.html` without extra installs on the latest Chrome.
 
-Use the upcoming **Validate my ZIP** tool to lint file size, inline assets, and accessibility basics *before* you upload.
+Use the upcoming **Validate my ZIP** tool to lint file size, asset references, and README basics *before* you upload.
 
-## Judging rubric
+## Judging snapshot
 
-| Category | Weight | What judges look for |
-| --- | --- | --- |
-| **Best AI Fundamentals** | 30% | Does the game teach or demonstrate core AI ideas clearly? |
-| **Best Use of AI** | 25% | How cleverly does the experience use AI interactions or design? |
-| **Gameplay & Fun** | 25% | Is it engaging, replayable, and intuitive in two minutes? |
-| **Visual Polish & UX** | 10% | Are visuals cohesive with readable typography and strong contrast? |
-| **Presentation & Clarity** | 10% | Does the team explain the concept, constraints, and learnings succinctly? |
+Judges score every game using the [official rubric](/ship/judging-rubric). Learn it, rehearse to it, and design your demo around the learning impact, gameplay fun, and storytelling beats they’ll evaluate.
 
-Bonus shout-outs: **Most Spectacular Fail**, **Crowd Favourite**, and other vibe-forward awards will be announced on the day.
+Bonus shout-outs—like **Most Spectacular Fail** and **Crowd Favourite**—are announced on the day and don’t affect core scoring.
 
 ## Submission flow
 
@@ -48,6 +42,7 @@ Bonus shout-outs: **Most Spectacular Fail**, **Crowd Favourite**, and other vibe
 
 - [QA Checklist](/ship/qa-checklist)
 - [Submission Rules](/ship/submission-rules)
-- [Judging Overview](/judging/index)
-- [Demo script coaching](/judging/demo-script)
+- [Judging & Demo Overview](/ship/judging-guide)
+- [Judging Rubric](/ship/judging-rubric)
+- [Demo script coaching](/ship/demo-script)
 - [Post-Event Publishing](/ship/post-event-publishing)

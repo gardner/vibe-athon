@@ -5,7 +5,7 @@ This is where your hard work goes from laptop to judging queue. Follow the steps
 ## Before You Arrive
 
 - Run the [QA checklist](/ship/qa-checklist).
-- Save your final zip as `Team-Name.zip`.
+- Save your final zip as `team-name.zip`.
 - Prepare a one-sentence summary for the staging log.
 
 ## Staging Portal Upload
@@ -30,7 +30,7 @@ This is where your hard work goes from laptop to judging queue. Follow the steps
 ## After Hand-In
 
 - Keep your laptop handy for last-minute fixes if requested.
-- Get ready for demos—check the [Demo Script](/judging/demo-script).
+- Get ready for demos—check the [Demo Script](/ship/demo-script).
 - Celebrate and hydrate while we finalise the judging roster.
 
 Thank you for keeping the staging process smooth for everyone!

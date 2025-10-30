@@ -17,16 +17,16 @@ Pick a ZIP that matches your comfort level. Each bundle includes `README.md`, `C
 | Kit | What’s inside | Ideal for |
 | --- | --- | --- |
 | **Beginner — `starter-beginner.zip`** | Single `index.html` with inline styles and comments pointing to editable sections. | First-time coders collaborating with an LLM in the browser. |
-| **Intermediate — `starter-intermediate.zip`** | `index.html` + `styles.css` with progressive enhancement tips and no build tooling. | Makers who want tidy CSS but still ship a single file at the end. |
-| **Advanced — `starter-advanced-react.zip`** | Lightweight React + WebGPU/WebLLM example with notes on exporting to a flat HTML file. | Experienced devs experimenting off-competition while keeping within the spirit of the rules. |
+| **Intermediate — `starter-intermediate.zip`** | `index.html` + `styles.css` plus a lightweight `assets/` folder. | Makers who want tidy CSS while keeping the export process simple. |
+| **Advanced — `starter-advanced-react.zip`** | Minimal React setup with a pre-configured `npm run build` that outputs a static `dist/` folder. | Experienced devs who are comfortable exporting static builds. |
 
-📌 **Reminder:** Only single-file (`index.html`, ≤2 MB, inline CSS/JS, no external network calls) submissions are eligible for judging. The advanced kit is opt-in and showcase-only.
+📌 **Reminder:** Every team must follow the [Technical Requirements](/build/technical-requirements). Advanced kits are welcome—as long as you include the built output that runs without extra setup.
 
 ## Prompt cookbook
 
 Reuse these copy-pastable recipes to steer your AI buddy:
 
-- **One-shot bootstrap.** Generate a playable single-file HTML game that fits the Vibe-athon constraints.
+- **One-shot bootstrap.** Generate a playable static HTML game that fits the Vibe-athon constraints.
 - **Tweak without regressions.** Ask for incremental updates that preserve existing IDs, functions, and styles.
 - **Paste constraints first.** Start every conversation with your `CONSTRAINTS.md` so the model honours the rules.
 - **Context folder pattern.** Stack snippets from `context/`—mechanics, assets, copy—and add a focused ask at the end.
@@ -37,15 +37,15 @@ Choose the setup that matches your hardware and teamwork style:
 
 - **Browser-only loop.** ChatGPT, Gemini, or Claude in the browser → copy/paste into the starter file → refresh.
 - **Editor + AI pair.** VS Code with Cursor, Copilot, or Codium → Live Server preview → commit frequent checkpoints.
-- **Repo-first.** GitHub repo + PRs reviewed with Cursor/Codium → merge → export final single-file build.
+- **Repo-first.** GitHub repo + PRs reviewed with Cursor/Codium → merge → export the final static build.
 
-Each playbook is mirrored in the starter kit `WORKFLOWS.md` so everyone can stay in sync—even offline.
+Each playbook is mirrored in the starter kit `WORKFLOWS.md` so everyone can stay in sync without hunting through chats.
 
 ## Tools & local setup
 
 - Free first: CodeSandbox, Replit, VS Code, Vite’s Live Server, Firefox/Chrome dev tools.
 - Bring your own LLM logins or tap the NAIS AI Sandbox accounts on-site (details in `README.md`).
-- Quick preview: run a local server or open the HTML file directly; keep DevTools’ Lighthouse and Accessibility tabs handy.
+- Quick preview: run a local server or open the HTML file directly; DevTools’ Performance tab will help you watch for jank.
 
 ## Inspiration gallery
 
@@ -53,7 +53,7 @@ Spark ideas with 20 one-liner concepts (hidden in `context/ideas.md`) and three 
 
 ## What’s next
 
-- [Technical Brief](/build/technical-brief)
+- [Technical Requirements](/build/technical-requirements)
 - [Quickstart – Vanilla JS](/build/quickstart-vanilla)
-- [Accessibility Basics](/build/accessibility-basics)
+- [Performance & Packaging](/build/performance-offline)
 - [Submission checklist](/ship/qa-checklist)

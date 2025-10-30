@@ -44,4 +44,3 @@ Wrap back to the [Guide section](/guide/index) whenever you need to onboard new 
 
 - [Ship checklist](/ship/qa-checklist)
 - [Ops support contacts](/ops/venue-info)
-- [Accessibility Avenger path](/people/paths/accessibility-avenger)

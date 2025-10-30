@@ -42,6 +42,5 @@ When your prototype looks and sounds ready, jump into the [Ship section](/ship/i
 
 ### Related guides
 
-- [Designer Dreamer path](/people/paths/designer-dreamer)
-- [Data Storyteller path](/people/paths/data-storyteller)
-- [Demo script coaching](/judging/demo-script)
+- [Team roles snapshot](/guide/team-roles)
+- [Demo script coaching](/ship/demo-script)

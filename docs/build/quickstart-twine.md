@@ -4,7 +4,7 @@ This is the express lane to shipping a narrative AI game with Twine. You’ll go
 
 ## Setup
 
-1. Download Twine from the USB toolkit or [twinery.org](https://twinery.org) before you go offline.
+1. Download Twine from the USB toolkit or [twinery.org](https://twinery.org) ahead of the event.
 2. Open the PLACEHOLDER starter project and rename it with your team name.
 3. Skim the `Start Here` passage for built-in instructions.
 
@@ -23,8 +23,8 @@ This is the express lane to shipping a narrative AI game with Twine. You’ll go
 ## Export & Test
 
 1. Select **Publish to File** and save as `index.html`.
-2. Double-click the file locally to confirm everything works without Wi-Fi.
-3. Run through the [QA checklist](/ship/qa-checklist) focusing on links, text contrast, and readability.
+2. Double-click the file locally to confirm everything loads after you move it into your submission folder.
+3. Run through the [QA checklist](/ship/qa-checklist) focusing on links, text clarity, and readability.
 
 ## AI Assist Prompts
 

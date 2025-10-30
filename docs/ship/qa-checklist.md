@@ -1,6 +1,6 @@
 # QA Checklist
 
-Run this checklist before you submit. It keeps your game smooth, accessible, and ready for judging.
+Run this checklist before you submit. It keeps your game smooth, understandable, and ready for judging.
 
 ## Core Functionality
 
@@ -14,22 +14,16 @@ Run this checklist before you submit. It keeps your game smooth, accessible, and
 - [ ] Players receive feedback when they make smart decisions.
 - [ ] Recap or summary reinforces what was learned.
 
-## Accessibility
+## Packaging & Performance
 
-- [ ] Keyboard-only playthrough works start to finish.
-- [ ] Text has strong contrast and readable font sizes.
-- [ ] Captions or visual cues exist for key audio moments.
+- [ ] Project zips to under 25 MB with no nested archives.
+- [ ] Media assets load quickly; large files are compressed or trimmed.
+- [ ] DevTools console is free of missing file paths or API key errors.
 
-## Offline & Performance
+## Demo Ready
 
-- [ ] Game runs flawlessly in airplane mode.
-- [ ] No external network requests fire in DevTools.
-- [ ] Assets load quickly and don’t freeze the experience.
-
-## Polish
-
-- [ ] Credits, licences, and acknowledgements are visible.
-- [ ] Instructions are easy to find mid-game.
-- [ ] PLACEHOLDER screenshot saved for submission form.
+- [ ] README includes controls, credits, and tool usage.
+- [ ] Two-minute pitch rehearsed using the [Demo Script](/ship/demo-script).
+- [ ] PLACEHOLDER screenshot saved for the submission form.
 
 All good? High-five your team, celebrate the win, and roll into the submission flow.
