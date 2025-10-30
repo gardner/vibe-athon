@@ -1,6 +1,6 @@
 ---
 title: Ship Overview
-description: Lock in quality, package your build, and hand it to judges with confidence.
+description: Validate your single-file build, upload it, and walk into demos knowing the rubric cold.
 outline: deep
 ---
 
@@ -8,40 +8,46 @@ outline: deep
 
 ## Ship Overview
 
-The Ship section keeps your team calm during the final stretch. Use these resources to run QA passes, document your project, and submit everything judges and ops need without a scramble.
+This section is your final pit stop before the judges see your work. Follow the rules, run the automated checks, and rehearse your two-minute story so every team finishes strong.
 
-## Who should use this section
+## Rules & constraints
 
-- Producers or project leads orchestrating final checks.
-- QA buddies validating accessibility, offline readiness, and performance.
-- Anyone responsible for packaging builds, docs, or demo recordings.
+- Submit a single `index.html` file ≤ 2 MB with inline CSS and JS.
+- No external network calls, CDNs, or runtime fetches—package everything locally.
+- Must run in the latest Chrome on desktop; mobile-friendly and accessible (tab order + alt text) strongly encouraged.
 
-## What problems this section solves
+Use the upcoming **Validate my ZIP** tool to lint file size, inline assets, and accessibility basics *before* you upload.
 
-- Ensures your build plays reliably on demo hardware.
-- Provides checklists for documentation, screenshots, and submission forms.
-- Clarifies timelines and handoff expectations so you never miss a deadline.
+## Judging rubric
 
-## Key pages
+| Category | Weight | What judges look for |
+| --- | --- | --- |
+| **Best AI Fundamentals** | 30% | Does the game teach or demonstrate core AI ideas clearly? |
+| **Best Use of AI** | 25% | How cleverly does the experience use AI interactions or design? |
+| **Gameplay & Fun** | 25% | Is it engaging, replayable, and intuitive in two minutes? |
+| **Visual Polish & UX** | 10% | Are visuals cohesive with readable typography and strong contrast? |
+| **Presentation & Clarity** | 10% | Does the team explain the concept, constraints, and learnings succinctly? |
+
+Bonus shout-outs: **Most Spectacular Fail**, **Crowd Favourite**, and other vibe-forward awards will be announced on the day.
+
+## Submission flow
+
+1. Zip your project folder and run **Validate my ZIP** (available from `/ship/submission-rules`).
+2. Upload the ZIP, add your team name, 140-character blurb, and confirm the consent/license tickboxes.
+3. Watch the countdown timer for the hand-in deadline; late uploads will be marked as exhibition-only.
+4. Receive your auto-generated demo order in the staging area.
+
+## Demo checklist
+
+- Keep the run-through to two minutes max.
+- Show the core mechanic, the AI insight, and one thing you learned.
+- Mention any bugs or hilarious edge cases—judges love honesty.
+- Have Chrome open, zoom set, and keyboard focus ready for accessibility checks.
+
+## After you upload
 
 - [QA Checklist](/ship/qa-checklist)
 - [Submission Rules](/ship/submission-rules)
-- [Folder Structure](/ship/folder-structure)
-- [Staging & Hand-In](/ship/staging-hand-in)
-- [Post-Event Publishing](/ship/post-event-publishing)
-
-## Next section
-
-After submission prep, review the [Judging section](/judging/index) to fine-tune your demo and celebrate your wins.
-
----
-
-### Up next
-
-- [Understand how judging works](/judging/index)
-
-### Related guides
-
-- [Accessibility Avenger path](/people/paths/accessibility-avenger)
-- [Ops support contacts](/ops/venue-info)
+- [Judging Overview](/judging/index)
 - [Demo script coaching](/judging/demo-script)
+- [Post-Event Publishing](/ship/post-event-publishing)

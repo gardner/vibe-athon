@@ -1,80 +1,72 @@
 ---
 title: Welcome to the Vibe-athon Handbook
-description: Get oriented fast and choose the right path for your Vibe-athon team.
+description: One place for the Guide → Build → Ship flow, starter kits, timelines, and submission rules.
 outline: deep
 layout: home
 hero:
-  name: "NAIS Vibe-athon Handbook"
-  text: "Build, learn, and ship your AI game in a single day"
-  tagline: "Friendly, inclusive, and practical guidance for every team persona."
+  name: "NAIS Vibe-athon"
+  text: "Guide → Build → Ship your vibe-coded mini-game in one day"
+  tagline: "Everything you need to go from kickoff to demos without breaking the single-file rules."
   actions:
     - theme: brand
-      text: Dive into the Guide
-      link: /guide/index
+      text: Download the Starter Kit
+      link: /build/index#starter-kit
     - theme: alt
-      text: Grab a Starter Template
-      link: /build/code-templates
+      text: Read the Event Guide
+      link: /guide/index
 features:
-  - title: Ready for any skill level
-    details: Whether you're pair-programming with an LLM or hand-coding every pixel, we keep the ramp short and the vibes high.
-  - title: Offline-first by design
-    details: Every snippet, template, and checklist works from a USB stick—perfect for spotty Wi-Fi days.
-  - title: Ship with confidence
-    details: Follow the submission playbook to hand in a polished, judge-ready game without breaking a sweat.
+  - title: 50,000-ft overview
+    details: "Get the big picture for the day: how the event runs, what you’ll build, and how judging works."
+  - title: What to expect timeline
+    details: "Morning kickoff, build sprint, playtest breaks, and a high-energy demo hour—mapped out hour by hour."
+  - title: Ship-ready resources
+    details: "Starter templates, prompt workflows, and submission checklists all tuned for single-file builds."
 ---
 
 ![Homepage banner](/homepage-banner.webp)
 
-## Start your Vibe-athon mission
+## What is vibe-coding?
 
-Welcome to the **NAIS Vibe-athon Handbook**—your hype squad, toolbox, and technical map rolled into one joyful website. Every page keeps the language friendly and the steps bite-sized so you can focus on building something brilliant.
+Vibe-coding is our friendly name for building a playful, learning-focused mini-game with the help of AI tools—fast. You’ll wrangle a single `index.html`, use prompts as power-ups, and keep the vibes collaborative from kickoff to demos.
 
-## Choose your launch path
+## You’ll leave with…
 
-Pick the starter that feels closest to your strengths. You can always swap later.
+- A working single-file mini-game you can proudly share.
+- Better instincts for prompting, testing, and iterating with AI partners.
+- Bragging rights, new teammates, and stories for the group chat.
 
-<div class="starter-buttons">
-  <a class="vp-button" href="/people/paths/prompt-engineer">I'm new to coding → Start with Prompt Engineer path</a>
-  <a class="vp-button" href="/people/paths/code-mechanic">I can code → Start with Code Mechanic path</a>
-  <a class="vp-button" href="/people/paths/designer-dreamer">I do design or story → Start with Designer path</a>
-</div>
+## What to expect on the day
 
-Need more options? Visit the [Persona Paths hub](/people/persona-paths) or take the [persona quiz](/people/persona-quiz) to find your best-fit role.
+**9:00 – Kickoff.** Welcome, vibe check, and walk-through of the single-file rules.
 
-## How this handbook works
+**9:30 – Build sprint.** Form teams, claim a starter kit, and co-build with your LLM of choice.
 
-1. **Orient** in the [Guide section](/guide/index) to learn how the day flows and what the judges expect.
-2. **Build** with ready-to-run templates, prompt recipes, and quickstart walkthroughs in the [Build section](/build/index).
-3. **Create** polish by tapping art, narrative, and audio prompts in the [Create section](/create/index).
-4. **Ship** your game with checklists and submission tips from the [Ship section](/ship/index).
-5. **Loop back** to [Judging](/judging/index), [People](/people/index), and [Ops](/ops/index) whenever you need deeper support.
+**11:30 – Playtest loop.** Swap stations, gather feedback, and tighten your core mechanic.
 
-We designed the flow so you can skim in order or jump straight to what matters most right now.
+**12:30 – Demo prep.** Validate your ZIP, rehearse the 2-minute story, and upload.
+
+**1:00 – Demos & judging.** Present, celebrate, and cheer on the crowd favourites.
+
+## Essential CTAs
+
+- [Join the WhatsApp group](https://chat.whatsapp.com/) for real-time updates and teammate wrangling.
+- [Add the event to your calendar (.ics)](/vibe-athon-day.ics) so you don’t miss call time.
+- [Review the Code of Conduct](/guide/code-of-conduct) before you roll in.
+
+## Guide → Build → Ship
+
+1. Start with the [Guide](/guide/index) for event logistics, safety notes, and FAQs.
+2. Jump into [Build](/build/index) to grab starter kits, prompt workflows, and tool stacks.
+3. Head to [Ship](/ship/index) for submission rules, judging rubrics, and demo prep.
+
+Need role-specific advice? The [People section](/people/index) outlines personas, mentor support, and team formation tips. Looking for venue info? [Ops](/ops/index) keeps parking, Wi-Fi, and contingency plans in one place.
 
 ![Highlight cards](/highlight-cards.webp)
 
-## Quick navigation
-
-- [Guide → Event flow, rules, and safety](/guide/index)
-- [Build → Technical quickstarts and templates](/build/index)
-- [Create → Visuals, writing, and audio tips](/create/index)
-- [Ship → QA checklists and submission prep](/ship/index)
-- [Judging → Rubrics and demo coaching](/judging/index)
-- [People → Personas, team roles, mentor support](/people/index)
-- [Ops → Venue logistics and contingency plans](/ops/index)
-
-Looking for assets? Keep an eye out for **PLACEHOLDER** markers—our creative crew will drop in banners, diagrams, and persona art soon.
-
-Let’s build games that teach, delight, and spread the Vibe-athon magic. 🔥
-
----
-
-### Up next
-
-- [Understand the full handbook flow](/guide/flow)
-
-### Related guides
+## Stay ready
 
 - [Persona Paths hub](/people/persona-paths)
 - [Starter code templates](/build/code-templates)
 - [Submission checklist](/ship/qa-checklist)
+
+Let’s build games that teach, delight, and spread the Vibe-athon magic. 🔥

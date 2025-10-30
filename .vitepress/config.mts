@@ -15,12 +15,7 @@ export default defineConfig({
     nav: [
       { text: 'Guide', link: '/guide/index' },
       { text: 'Build', link: '/build/index' },
-      { text: 'Create', link: '/create/index' },
       { text: 'Ship', link: '/ship/index' },
-      { text: 'Judging', link: '/judging/index' },
-      { text: 'People', link: '/people/index' },
-      { text: 'Personas', link: '/people/persona-paths' },
-      { text: 'Ops', link: '/ops/index' },
       { text: 'About', link: '/about/nelson-ai-sandbox' }
     ],
     sidebar: {
@@ -41,7 +36,7 @@ export default defineConfig({
       ],
       '/build/': [
         {
-          text: 'Build',
+          text: 'Get Started',
           items: [
             { text: 'Build Overview', link: '/build/index' },
             { text: 'Technical Brief', link: '/build/technical-brief' },
@@ -54,13 +49,10 @@ export default defineConfig({
             { text: 'Accessibility Basics', link: '/build/accessibility-basics' },
             { text: 'Performance & Offline', link: '/build/performance-offline' }
           ]
-        }
-      ],
-      '/create/': [
+        },
         {
-          text: 'Create',
+          text: 'Create & Polish',
           items: [
-            { text: 'Create Overview', link: '/create/index' },
             { text: 'Prompting For Non-Coders', link: '/create/prompting-for-non-coders' },
             { text: 'Writing Clarity', link: '/create/writing-clarity' },
             { text: 'Images & Art Pipelines', link: '/create/images-art-pipelines' },
@@ -71,7 +63,7 @@ export default defineConfig({
       ],
       '/ship/': [
         {
-          text: 'Ship',
+          text: 'Ship & Submit',
           items: [
             { text: 'Ship Overview', link: '/ship/index' },
             { text: 'QA Checklist', link: '/ship/qa-checklist' },
@@ -80,11 +72,9 @@ export default defineConfig({
             { text: 'Staging & Hand-In', link: '/ship/staging-hand-in' },
             { text: 'Post-Event Publishing', link: '/ship/post-event-publishing' }
           ]
-        }
-      ],
-      '/judging/': [
+        },
         {
-          text: 'Judging',
+          text: 'Judging & Demos',
           items: [
             { text: 'Judging Overview', link: '/judging/index' },
             { text: 'Rubric', link: '/judging/rubric' },
