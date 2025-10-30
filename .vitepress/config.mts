@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { version } from './version'
 
 export default defineConfig({
   srcDir: 'docs',
@@ -11,6 +12,10 @@ export default defineConfig({
     },
     search: {
       provider: 'local'
+    },
+    footer: {
+      message: `Version: ${version}`,
+      copyright: 'Copyright © 2025 Nelson AI Sandbox'
     },
     nav: [
       { text: 'Guide', link: '/guide/index' },
