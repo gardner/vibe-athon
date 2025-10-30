@@ -1,5 +1,4 @@
 import { defineConfig } from 'vitepress'
-import { version } from './version'
 
 export default defineConfig({
   srcDir: 'docs',
@@ -14,7 +13,7 @@ export default defineConfig({
       provider: 'local'
     },
     footer: {
-      message: `Version: ${version}`,
+      message: `Version: ${process.env.CF_PAGES_COMMIT_SHA ? process.env.CF_PAGES_COMMIT_SHA.substring(0, 7) : 'dev'}`,
       copyright: 'Copyright © 2025 Nelson AI Sandbox'
     },
     nav: [
