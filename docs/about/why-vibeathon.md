@@ -11,8 +11,8 @@ We created the Vibe-athon to make AI literacy feel exciting, welcoming, and hand
 
 ## What Makes It Different
 
-- Offline-first approach ensures resilience and accessibility.
+- Static, no-backend builds keep judging simple and approachable.
 - Templates and toolkits level the playing field for all skill levels.
-- Mentor squads and personas encourage joyful collaboration.
+- Mentor squads and lightweight roles encourage joyful collaboration.
 
 Join us in building technology that feels human, kind, and full of possibility.

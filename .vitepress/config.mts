@@ -30,6 +30,7 @@ export default defineConfig({
             { text: 'Guide Overview', link: '/guide/index' },
             { text: 'Welcome & Event Overview', link: '/guide/welcome' },
             { text: 'What You’ll Build', link: '/guide/what-youll-build' },
+            { text: 'Team Roles & Support', link: '/guide/team-roles' },
             { text: 'Day Schedule & Milestones', link: '/guide/schedule' },
             { text: 'Code of Conduct', link: '/guide/code-of-conduct' },
             { text: 'IP & Licensing', link: '/guide/ip-licensing' },
@@ -43,15 +44,14 @@ export default defineConfig({
           text: 'Get Started',
           items: [
             { text: 'Build Overview', link: '/build/index' },
-            { text: 'Technical Brief', link: '/build/technical-brief' },
+            { text: 'Technical Requirements', link: '/build/technical-requirements' },
             { text: 'Choose Your Path', link: '/build/choose-your-path' },
             { text: 'Quickstart – Twine', link: '/build/quickstart-twine' },
             { text: 'Quickstart – p5.js', link: '/build/quickstart-p5' },
             { text: 'Quickstart – Vanilla JS', link: '/build/quickstart-vanilla' },
             { text: 'Code Templates', link: '/build/code-templates' },
             { text: 'Common Patterns', link: '/build/common-patterns' },
-            { text: 'Accessibility Basics', link: '/build/accessibility-basics' },
-            { text: 'Performance & Offline', link: '/build/performance-offline' }
+            { text: 'Performance & Packaging', link: '/build/performance-offline' }
           ]
         },
         {
@@ -67,46 +67,19 @@ export default defineConfig({
       ],
       '/ship/': [
         {
-          text: 'Ship & Submit',
+          text: 'Ship, Submit & Demo',
           items: [
             { text: 'Ship Overview', link: '/ship/index' },
             { text: 'QA Checklist', link: '/ship/qa-checklist' },
             { text: 'Submission Rules', link: '/ship/submission-rules' },
             { text: 'Folder Structure', link: '/ship/folder-structure' },
             { text: 'Staging & Hand-In', link: '/ship/staging-hand-in' },
-            { text: 'Post-Event Publishing', link: '/ship/post-event-publishing' }
-          ]
-        },
-        {
-          text: 'Judging & Demos',
-          items: [
-            { text: 'Judging Overview', link: '/judging/index' },
-            { text: 'Rubric', link: '/judging/rubric' },
-            { text: 'Demo Script', link: '/judging/demo-script' },
-            { text: 'Game Examples', link: '/judging/game-examples' },
-            { text: 'Awards', link: '/judging/awards' }
-          ]
-        }
-      ],
-      '/people/': [
-        {
-          text: 'People',
-          items: [
-            { text: 'People Overview', link: '/people/index' },
-            { text: 'Team Roles', link: '/people/team-roles' },
-            { text: 'Mentor Support', link: '/people/mentor-support' }
-          ]
-        },
-        {
-          text: 'Personas',
-          items: [
-            { text: 'Start Here', link: '/people/persona-paths' },
-            { text: 'Quiz', link: '/people/persona-quiz' },
-            { text: 'Prompt Engineer Path', link: '/people/paths/prompt-engineer' },
-            { text: 'Code Mechanic Path', link: '/people/paths/code-mechanic' },
-            { text: 'Designer Dreamer Path', link: '/people/paths/designer-dreamer' },
-            { text: 'Data Storyteller Path', link: '/people/paths/data-storyteller' },
-            { text: 'Accessibility Avenger Path', link: '/people/paths/accessibility-avenger' }
+            { text: 'Post-Event Publishing', link: '/ship/post-event-publishing' },
+            { text: 'Judging & Demo Overview', link: '/ship/judging-guide' },
+            { text: 'Judging Rubric', link: '/ship/judging-rubric' },
+            { text: 'Demo Script', link: '/ship/demo-script' },
+            { text: 'Game Examples', link: '/ship/game-examples' },
+            { text: 'Awards', link: '/ship/awards' }
           ]
         }
       ],

@@ -1,35 +1,35 @@
-# Performance & Offline
+# Performance & Packaging
 
-Smooth performance keeps judges smiling and players learning. These tips ensure your game stays fast and reliable—even when the Wi-Fi takes a nap.
+Smooth performance keeps judges smiling and players learning. Use these tips to keep your build lean, responsive, and quick to hand in.
 
-## Optimise Assets
+## Optimise assets
 
-- Keep your total package under PLACEHOLDER MB.
-- Resize images to the exact dimensions you need and export as WebP or compressed PNG.
-- Trim audio loops to 15–30 seconds and fade them cleanly.
+- Keep your zipped submission **under 25 MB**—delete drafts or unused media before exporting.
+- Resize images to the exact dimensions you need and export as WebP or efficiently compressed PNG/JPEG.
+- Trim audio loops to 15–30 seconds, convert to `.mp3` or `.ogg`, and fade tails so loops feel seamless.
 
-## Efficient Code
+## Efficient code
 
-- Use requestAnimationFrame for smooth animations.
-- Clean up timers, intervals, and event listeners when you change scenes.
-- Avoid heavy computations in tight loops; pre-calc where possible.
+- Use `requestAnimationFrame` for smooth animations and clear timers when scenes change.
+- Batch DOM updates or state changes rather than editing elements in tight loops.
+- Memoise expensive calculations or pre-generate data before gameplay begins.
 
-## Offline Readiness
+## Bundle everything locally
 
-- Bundle libraries locally—no CDN links or remote fonts.
-- Reference assets with relative paths (`./assets/...`).
-- Test in airplane mode after every major change.
+- Reference assets with relative paths (`./assets/...`) so they survive after zipping.
+- Install third-party libraries locally or copy the compiled script into your project—no CDN links.
+- If you use a build tool, check the `dist/` output for hashed filenames and update references before zipping.
 
-## Debugging Checklist
+## Pre-flight checks
 
-- Open DevTools and look for 404 errors in the console.
-- Monitor network tab (once, while online) to confirm no external calls remain.
-- Profile performance if you notice stutter—check for large images or repeated DOM updates.
+- Open DevTools once to confirm there are **no** requests for API keys, analytics, or remote fonts.
+- Test the exported build on a second machine to verify fonts and media still load.
+- Watch memory usage during longer play sessions; reload if you spot runaway allocations.
 
-## USB Survival Tips
+## Backup plan
 
-- Keep a copy of your final zip on a labelled USB stick.
-- Include a `README` with play instructions so judges know exactly what to expect.
-- Store a backup on the staging server and one offline in case hardware fails.
+- Keep a copy of your final zip on a labelled USB stick plus the staging portal.
+- Include a `README` with play instructions so judges know the intended flow.
+- Store a spare copy in cloud storage in case your primary machine fails on demo day.
 
 Need help slimming assets or tracing lag? Flag the debug squad at PLACEHOLDER support channel.

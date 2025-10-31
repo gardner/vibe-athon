@@ -26,7 +26,7 @@ We keep the schedule light, predictable, and supportive so you can focus on buil
 ## Pro Tips
 
 - Timebox your core loop early, then polish.
-- Keep an eye on the offline requirement—test in airplane mode before QA hour.
+- Export a fresh zip after major changes so you’re not crunching at 4:29 PM.
 - Aim to hand in 15 minutes before the deadline to beat the rush.
 
 You’ve got this. We’re cheering every step of the way.

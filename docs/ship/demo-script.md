@@ -4,14 +4,14 @@ Five minutes goes fast. Use this script to guide your storytelling and make judg
 
 ## 1. Hook (30 seconds)
 
-- Introduce your team and persona mix.
+- Introduce your team and how you split roles.
 - Share the AI concept you’re teaching and why it matters.
 
 ## 2. Gameplay Showcase (2 minutes)
 
 - Walk through the core loop while explaining decisions out loud.
 - Highlight how the player learns—use plain language.
-- Point out accessibility features and offline readiness.
+- Highlight how AI tooling or design choices support the learning goal.
 
 ## 3. Behind the Scenes (1 minute)
 

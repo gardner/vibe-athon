@@ -1,10 +1,10 @@
 # Choose Your Path (Starter Options)
 
-Pick the build path that matches your team’s vibe. All options are offline-ready and include step-by-step prompts for AI pair programming.
+Pick the build path that matches your team’s vibe. All options export cleanly and include step-by-step prompts for AI pair programming.
 
 ## Option 1: Twine Story Game (No-Code / Low-Code)
 
-- Perfect for narrative-driven teams and Prompt Engineers.
+- Perfect for narrative-driven teams and Prompt Pilots.
 - Drag-and-drop interface, with optional HTML/CSS tweaks.
 - Export as a single HTML file.
 - Includes PLACEHOLDER link to our custom AI prompt pack.
@@ -21,7 +21,7 @@ Pick the build path that matches your team’s vibe. All options are offline-rea
 - Great for Code Mechanics and teams who love fine-grained control.
 - Includes scene manager, input handler, and score tracker scaffolding.
 - Easily extendable with Tone.js for sound or custom shaders.
-- Ships with accessibility helpers baked in.
+- Ships with handy UI helpers to keep onboarding smooth.
 
 ## How to Decide
 

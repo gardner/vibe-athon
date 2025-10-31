@@ -6,7 +6,7 @@ We celebrate creativity, collaboration, and community spirit. These award catego
 
 - **Best Overall Game:** Balanced excellence across learning, fun, and polish.
 - **Best AI Concept Teaching:** Most effective at making complex ideas accessible.
-- **Best Technical Execution:** Smooth performance, smart engineering, offline mastery.
+- **Best Technical Execution:** Smooth performance, smart engineering, and reliable packaging.
 
 ## Special Awards
 
@@ -18,6 +18,6 @@ We celebrate creativity, collaboration, and community spirit. These award catego
 
 - Document your choices so judges understand your journey.
 - Share player feedback or playtest results during your demo.
-- Celebrate your team personas and how you collaborated.
+- Celebrate how your team split roles and collaborated.
 
 Award winners will be featured on the NAIS website and invited to PLACEHOLDER follow-up showcase. Bring your best energy—you might inspire the next wave of builders.

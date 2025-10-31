@@ -1,6 +1,6 @@
 # Quickstart – Vanilla JS
 
-Want total control with zero dependencies? This vanilla HTML/CSS/JS starter helps you spin up a clean, extensible game loop that plays nicely offline.
+Want total control with zero dependencies? This vanilla HTML/CSS/JS starter helps you spin up a clean, extensible game loop that exports without surprises.
 
 ## Setup
 
@@ -25,7 +25,7 @@ const game = {
 
 - Use `requestAnimationFrame` or a fixed interval loop for updates.
 - Keep input listeners in `input.js` so you can swap controls easily.
-- Store UI helpers in `ui.js` for accessibility tweaks.
+- Store UI helpers in `ui.js` so you can adjust overlays and HUD copy quickly.
 
 ## Teaching AI Concepts
 
@@ -37,11 +37,11 @@ const game = {
 
 > “You are a JavaScript gameplay programmer. Add a finite state machine with states `tutorial`, `play`, and `summary` to this base loop: PLACEHOLDER code snippet.”
 
-## Offline Must-Dos
+## Packaging Must-Dos
 
 - Inline critical CSS in `<style>` and load scripts with relative paths.
 - Use the `assets/` directory for images, audio, and JSON data.
-- Test in airplane mode to confirm there are zero network requests.
+- Remove any API keys or analytics before exporting; the build should boot without credentials.
 
 ## Pre-Submission Checks
 

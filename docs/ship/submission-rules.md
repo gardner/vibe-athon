@@ -16,6 +16,7 @@ Team-Name/
 
 - No nested zips. Submit one clean folder zipped once.
 - Keep filenames lowercase with hyphens.
+- Keep the final ZIP under 25 MB—trim unused assets before exporting.
 
 ## Required Materials
 
@@ -25,7 +26,7 @@ Team-Name/
 
 ## Hand-In Process
 
-1. Zip your folder (`Team-Name.zip`).
+1. Zip your folder (`team-name.zip`).
 2. Upload to the staging portal at PLACEHOLDER URL **or** copy to the official USB stick at the help desk.
 3. Confirm your upload with the tech volunteer—don’t leave until you get the thumbs-up.
 
@@ -38,7 +39,7 @@ Team-Name/
 ## After Submission
 
 - Stick around for the quick verification check.
-- Prep your demo using the [Demo Script](/judging/demo-script).
+- Prep your demo using the [Demo Script](/ship/demo-script).
 - Celebrate—you just shipped a game in a day!
 
 Questions? Ping PLACEHOLDER submission support contact or visit the staging desk.

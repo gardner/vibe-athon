@@ -5,7 +5,7 @@ Welcome to the NAIS Vibe-athon! This handbook is your friendly co-pilot from doo
 ## What Happens at the Vibe-athon?
 
 - **Create a playable browser game in a day.** You’ll teach an AI concept through playful interaction.
-- **Use a single HTML file plus optional assets folder.** Keep it lean, portable, and USB-ready.
+- **Export a static build.** Keep `index.html` at the root, zip the folder, and make sure it opens without extra installs.
 - **Work however you like.** Prompt, pair-program, sketch, prototype—every style is welcome.
 - **Share your build.** You’ll demo to judges, mentors, and the NAIS community.
 
