@@ -2,7 +2,7 @@
 
 Use this template with your LLM partner to explore your game's vibe quickly.
 
-```
+```text
 You are my creative director. We're building a cozy browser-based experience that fits inside a single HTML file.
 
 Goals:
