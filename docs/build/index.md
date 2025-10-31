@@ -16,7 +16,7 @@ Pick a ZIP that matches your comfort level. Each bundle includes `README.md`, `C
 
 | Kit | What’s inside | Ideal for |
 | --- | --- | --- |
-| **Basic — `/starter-kits/starter-basic.zip`** | Single `index.html` with inline styles and comments pointing to editable sections. | First-time coders collaborating with an LLM in the browser. |
+| **Basic — [starter-basic.zip](/starter-kits/starter-basic.zip){target="_self"}** | Single `index.html` with inline styles and comments pointing to editable sections. | First-time coders collaborating with an LLM in the browser. |
 | **Intermediate — `starter-intermediate.zip`** | `index.html` + `styles.css` plus a lightweight `assets/` folder. | Makers who want tidy CSS while keeping the export process simple. |
 | **Advanced — `starter-advanced-react.zip`** | Minimal React setup with a pre-configured `npm run build` that outputs a static `dist/` folder. | Experienced devs who are comfortable exporting static builds. |
 
