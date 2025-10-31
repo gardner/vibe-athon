@@ -14,6 +14,6 @@
 
 ## Visual polish sprint
 
-1. Check `assets/placeholder.txt` for the required art dimensions.
+1. Check `assets/README.md` for the required art dimensions.
 2. Generate or source new art, keeping filenames consistent.
 3. Swap the files in `assets/` and update the `<img>` paths inside `index.html`.
