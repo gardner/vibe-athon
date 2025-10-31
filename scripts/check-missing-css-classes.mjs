@@ -17,11 +17,24 @@ const cssClassPattern = /\.(-?[_a-zA-Z]+[_a-zA-Z0-9-]*)/g;
 const classAttrDoublePattern = /class\s*=\s*"([^"]+)"/g;
 const classAttrSinglePattern = /class\s*=\s*'([^']+)'/g;
 
+const ignoredContentPaths = [
+  path.join(repoRoot, 'docs', 'public', 'starter-kits'),
+];
+
+function isIgnored(filePath) {
+  return ignoredContentPaths.some((ignoredPath) =>
+    filePath === ignoredPath || filePath.startsWith(`${ignoredPath}${path.sep}`)
+  );
+}
+
 async function collectFiles(dir) {
   const entries = await readdir(dir, { withFileTypes: true });
   const files = await Promise.all(
     entries.map(async (entry) => {
       const res = path.resolve(dir, entry.name);
+      if (isIgnored(res)) {
+        return [];
+      }
       if (entry.isDirectory()) {
         return collectFiles(res);
       }
