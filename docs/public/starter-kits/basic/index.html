@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Basic Starter Kit</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+        font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: #0d1016;
+        color: #f3f4f6;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        padding: 3rem 1.5rem 4rem;
+        gap: 3rem;
+        background: radial-gradient(circle at top, rgba(88, 101, 242, 0.35), transparent 55%), #0d1016;
+      }
+
+      header {
+        text-align: center;
+        max-width: 720px;
+      }
+
+      h1 {
+        font-size: clamp(2.5rem, 4vw, 3.5rem);
+        margin-bottom: 1rem;
+      }
+
+      p {
+        line-height: 1.7;
+        font-size: 1.05rem;
+        margin: 0 auto;
+        max-width: 640px;
+      }
+
+      .cta {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0.85rem 1.8rem;
+        border-radius: 999px;
+        background: linear-gradient(135deg, #8b5cf6, #06b6d4);
+        color: #0d1016;
+        font-weight: 600;
+        text-decoration: none;
+        margin-top: 1.5rem;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+        box-shadow: 0 12px 30px rgba(14, 165, 233, 0.35);
+      }
+
+      .cta:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 16px 40px rgba(14, 165, 233, 0.45);
+      }
+
+      .feature-grid {
+        display: grid;
+        gap: 1.5rem;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        width: min(960px, 100%);
+      }
+
+      .feature-card {
+        padding: 1.75rem;
+        border-radius: 18px;
+        background: rgba(17, 24, 39, 0.75);
+        border: 1px solid rgba(148, 163, 184, 0.2);
+        backdrop-filter: blur(6px);
+        min-height: 200px;
+        display: flex;
+        flex-direction: column;
+        gap: 0.75rem;
+      }
+
+      .feature-card h2 {
+        font-size: 1.35rem;
+        margin: 0;
+      }
+
+      footer {
+        font-size: 0.9rem;
+        color: #cbd5f5;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <!-- TODO: Update the headline to match your concept -->
+      <h1>Plant a vibe and watch it bloom.</h1>
+      <!-- TODO: Rewrite this paragraph with your hook + fantasy -->
+      <p>
+        Welcome to your studio-on-rails. Remix the colors, swap the imagery, and co-create a
+        playable moodboard that comes alive with every refresh.
+      </p>
+      <a class="cta" href="#features">Start building</a>
+    </header>
+
+    <main id="features" class="feature-grid">
+      <!-- TODO: Replace each card with your mechanic, mood, or beat -->
+      <article class="feature-card">
+        <h2>✨ Spark the feeling</h2>
+        <p>Jot down the emotion you want players to feel, then invite your LLM to brainstorm sensory details.</p>
+      </article>
+      <article class="feature-card">
+        <h2>🎛️ Craft the loop</h2>
+        <p>Use simple HTML inputs—buttons, sliders, toggles—to prototype your interaction without writing complex JavaScript.</p>
+      </article>
+      <article class="feature-card">
+        <h2>🎨 Paint the atmosphere</h2>
+        <p>Swap assets in the <code>assets/</code> folder and update the <code>&lt;img&gt;</code> tags to instantly refresh the vibe.</p>
+      </article>
+    </main>
+
+    <footer>
+      <!-- TODO: Add credits or submission details here -->
+      <p>Built with the Vibe-athon basic starter kit.</p>
+    </footer>
+  </body>
+</html>
