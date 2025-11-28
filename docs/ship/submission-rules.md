@@ -7,6 +7,7 @@ Follow these steps to hand in your project smoothly and keep the judging team on
 ```markdown
 Team-Name/
   index.html
+  icon.png
   assets/
     images/
     audio/
@@ -15,6 +16,7 @@ Team-Name/
 ```
 
 - No nested zips. Submit one clean folder zipped once.
+- `icon.png` is used as your team's logo
 - Keep filenames lowercase with hyphens.
 - Keep the final ZIP under 25 MB—trim unused assets before exporting.
 
