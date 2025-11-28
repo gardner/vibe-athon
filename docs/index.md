@@ -14,6 +14,9 @@ hero:
     - theme: alt
       text: Read the Event Guide
       link: /guide/index
+    - theme: brand
+      text: Review the Schedule
+      link: /guide/schedule
 features:
   - title: 50,000-ft overview
     details: "Get the big picture for the day: how the event runs, what you’ll build, and how judging works."
